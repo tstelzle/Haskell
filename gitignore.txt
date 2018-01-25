@@ -1,0 +1,52 @@
+kip to content
+This repository
+Search
+Pull requests
+Issues
+Marketplace
+Explore
+ @tstelzle
+  Sign out
+   Watch 2,383
+     Star 60,591  Fork 27,212 github/gitignore
+      Code  Pull requests 167  Projects 0  Insights
+      Branch: master Find file Copy pathgitignore/Haskell.gitignore
+      d9679b9  on Nov 29, 2017
+      @RyanGlScott RyanGlScott Add cabal.project.local~ to Haskell.gitignore (#2479)
+      17 contributors @RyanGlScott @cdepillabout @Abizern @vikraman @relrod @mlacorte @agrafix @jakubtuchol @joachifm @jkodumal @jaspervdj @eamsden @bitemyapp @cmoore @chrisdone @arcresu @shiftkey
+      RawBlameHistory    
+      23 lines (22 sloc)  219 Bytes
+      dist
+      dist-*
+      cabal-dev
+      *.o
+      *.hi
+      *.chi
+      *.chs.h
+      *.dyn_o
+      *.dyn_hi
+      .hpc
+      .hsenv
+      .cabal-sandbox/
+      cabal.sandbox.config
+      *.prof
+      *.aux
+      *.hp
+      *.eventlog
+      .stack-work/
+      cabal.project.local
+      cabal.project.local~
+      .HTF/
+      .ghc.environment.*
+      © 2018 GitHub, Inc.
+      Terms
+      Privacy
+      Security
+      Status
+      Help
+      Contact GitHub
+      API
+      Training
+      Shop
+      Blog
+      About
